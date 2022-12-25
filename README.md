@@ -1,2 +1,2 @@
-hotel data analysis project using python. Looking at how the hotel revenue is growing by year
+Here is my repository for my data analytics project, I have carried out analysis on hotel dataset, superstore dataset and titanic dataset.
 .
